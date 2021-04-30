@@ -1,0 +1,17 @@
+.home {
+  display: flex;
+  flex-direction: column;
+}
+
+.home__headerBody > h1 {
+  font-size: 100px;
+  align-items: center;
+  padding-left: 450px;
+  color: white;
+}
+.home__headerBody {
+  flex: 1;
+  display: flex;
+  margin-top: 0%;
+  flex-direction: column;
+}
